@@ -1,0 +1,17 @@
+{
+  "name": "com.bseah.arfoundationcontrollers",
+  "version": "1.0.0",
+  "displayName": "AR Foundation Controllers",
+  "description": "This package provides screen-based controllers for AR Foundation",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://github.com/bieseah/ARFoundationControllers",
+  "license": "MIT",
+  "keywords": [
+    "AR Foundation",
+    "controllers"
+  ],
+  "author": {
+    "name": "B Seah"
+  }
+}
